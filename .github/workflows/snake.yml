@@ -37,7 +37,11 @@ jobs:
           # Background
           perl -pi -e 's/#161b22/#0d1117/ig' "$file"
 
-          # Dark contribution palette -> Red
+          # Empty contribution cells -> Soft gray
+          perl -pi -e 's/#1b1f23/#374151/ig' "$file"
+          perl -pi -e 's/#161b22/#374151/ig' "$file"
+
+          # Red contribution palette
           perl -pi -e 's/#01311f/#220000/ig' "$file"
           perl -pi -e 's/#034525/#660000/ig' "$file"
           perl -pi -e 's/#0f6d31/#bb0000/ig' "$file"
