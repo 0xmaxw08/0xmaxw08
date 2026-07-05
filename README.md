@@ -7,16 +7,31 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=0xmaxw08&theme=dark&hide_border=false" />
+  <img
+    width="49.5%"
+    src="https://github-readme-stats.vercel.app/api?username=0xmaxw08&show_icons=true&theme=shadow_red&hide_border=true&border_radius=0&include_all_commits=true&count_private=true"
+  />
+  <img
+    width="49.5%"
+    src="https://streak-stats.demolab.com?user=0xmaxw08&theme=shadow_red&hide_border=true&border_radius=0"
+  />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=0xmaxw08&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img
+    width="41%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xmaxw08&layout=compact&theme=shadow_red&hide_border=true&border_radius=0"
+  />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0xmaxw08&style=flat-square&color=red" />
+</p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=0xmaxw08&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
