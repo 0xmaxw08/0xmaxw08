@@ -1,97 +1,69 @@
 name: GitHub Snake Game
 
-
-
 on:
-
-  # Schedule the workflow to run daily at midnight UTC
-
   schedule:
-
     - cron: "0 0 * * *"
-
-
-
-  # Allow manual triggering of the workflow
-
   workflow_dispatch:
-
-
-
-  # Trigger the workflow on pushes to the main branch
-
   push:
-
     branches:
-
       - main
 
-
+permissions:
+  contents: write
 
 jobs:
-
   generate:
-
     runs-on: ubuntu-latest
-
     timeout-minutes: 10
 
-
-
     steps:
-
-      # Step 1: Checkout the repository
-
       - name: Checkout Repository
-
         uses: actions/checkout@v3
 
-
-
-      # Step 2: Generate the snake animations
-
-      - name: Generate GitHub Contributions Snake Animations
-
+      - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v3
-
         with:
-
-          # GitHub username to generate the animation for
-
           github_user_name: ${{ github.repository_owner }}
-
-
-
-          # Define the output files and their configurations
-
           outputs: |
-
-            dist/github-snake.svg
-
-            dist/github-snake-dark.svg?palette=github-dark
-
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
+            dist/github-snake.svg?color_snake=%23C77DFF
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%23C77DFF
+            dist/ocean.gif?color_snake=%23C77DFF
         env:
-
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Copy generated files
+        run: |
+          mkdir -p output
+          cp -r dist/* output/
 
+      - name: Convert green contributions to red
+        run: |
+          for file in output/*.svg; do
 
-      # Step 3: Deploy the generated files to the 'output' branch
+            # ---------- Light Theme ----------
+            perl -pi -e 's/#9be9a8/#ffb3b3/ig' "$file"
+            perl -pi -e 's/#40c463/#ff6b6b/ig' "$file"
+            perl -pi -e 's/#30a14e/#ff3030/ig' "$file"
+            perl -pi -e 's/#216e39/#b30000/ig' "$file"
 
-      - name: Deploy to Output Branch
+            # ---------- Dark Theme ----------
+            perl -pi -e 's/#01311f/#220000/ig' "$file"
+            perl -pi -e 's/#034525/#660000/ig' "$file"
+            perl -pi -e 's/#0f6d31/#bb0000/ig' "$file"
+            perl -pi -e 's/#00c647/#ff3030/ig' "$file"
 
+            # ---------- Older GitHub palettes ----------
+            perl -pi -e 's/#0e4429/#220000/ig' "$file"
+            perl -pi -e 's/#006d32/#660000/ig' "$file"
+            perl -pi -e 's/#26a641/#bb0000/ig' "$file"
+            perl -pi -e 's/#39d353/#ff3030/ig' "$file"
+
+          done
+
+      - name: Publish to output branch
         uses: peaceiris/actions-gh-pages@v3
-
         with:
-
           github_token: ${{ secrets.GITHUB_TOKEN }}
-
-          publish_dir: ./dist
-
+          publish_dir: output
           publish_branch: output
-
-          # Optionally, you can set a custom commit message
-
           commit_message: "Update snake animation [skip ci]"
