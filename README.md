@@ -22,6 +22,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xmaxw08&layout=compact&hide_border=true&border_radius=0&title_color=ff0000&text_color=ffffff&bg_color=0d1117" 
   />
 </p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=0xmaxw08&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
