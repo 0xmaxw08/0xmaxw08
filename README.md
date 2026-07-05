@@ -28,8 +28,7 @@
 # 🐍 Contribution Snake
 
 <div align="center">
-    
-  ![snake gif](https://github.com/0xmaxw08/0xmaxw08/blob/output/github-snake-dark.svg)
+  <img src="https://raw.githubusercontent.com/0xmaxw08/0xmaxw08/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 
