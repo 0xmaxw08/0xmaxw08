@@ -19,5 +19,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=0xmaxw08&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=0xmaxw08&icon=0&color=4)](https://visitcount.itsvg.in)
+
 ![](https://komarev.com/ghpvc/?username=0xmaxw08)
