@@ -11,27 +11,21 @@
 
 <p align="center">
   <img
-    width="49.5%"
-    src="https://github-readme-stats.vercel.app/api?username=0xmaxw08&show_icons=true&theme=shadow_red&hide_border=true&border_radius=0&include_all_commits=true&count_private=true"
-  />
-  <img
-    width="49.5%"
-    src="https://streak-stats.demolab.com?user=0xmaxw08&theme=shadow_red&hide_border=true&border_radius=0"
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=0xmaxw08&show_icons=true&theme=github_dark&hide_border=true&border_radius=0&include_all_commits=true"
+  /><img
+    width="49%"
+    src="https://streak-stats.demolab.com?user=0xmaxw08&theme=github-dark&hide_border=true&border_radius=0"
   />
 </p>
 
 <p align="center">
   <img
-    width="41%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xmaxw08&layout=compact&theme=shadow_red&hide_border=true&border_radius=0"
+    width="42%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xmaxw08&layout=compact&theme=github_dark&hide_border=true&border_radius=0"
   />
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xmaxw08&style=flat-square&color=red" />
-</p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=0xmaxw08&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
