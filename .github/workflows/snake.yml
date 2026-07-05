@@ -21,32 +21,29 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=%2300E5FF
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=%2300E5FF
-            dist/github-snake.gif?palette=github-dark&color_snake=%2300E5FF
+            dist/github-snake.svg?color_snake=%23C77DFF
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%23C77DFF
+            dist/github-snake.gif?palette=github-dark&color_snake=%23C77DFF
 
-      - name: Copy files
+      - name: Copy generated files
         run: |
           mkdir -p output
           cp -r dist/* output/
 
-      - name: Show colors in SVG
-        run: |
-          echo "===== COLORS USED IN SVG ====="
-          grep -oE '#[0-9A-Fa-f]{6}' output/github-snake-dark.svg | sort | uniq
-          echo "=============================="
-
-      - name: Replace colors
+      - name: Convert green theme to red
         run: |
           for file in output/*.svg; do
             echo "Editing $file"
 
-            perl -pi -e 's/#39d353/#ff3030/ig' "$file"
-            perl -pi -e 's/#26a641/#bb0000/ig' "$file"
-            perl -pi -e 's/#006d32/#660000/ig' "$file"
-            perl -pi -e 's/#0e4429/#220000/ig' "$file"
-            perl -pi -e 's/#30a14e/#ff3030/ig' "$file"
-            perl -pi -e 's/#216e39/#bb0000/ig' "$file"
+            # Background (optional)
+            perl -pi -e 's/#161b22/#0d1117/ig' "$file"
+
+            # Contribution squares
+            perl -pi -e 's/#01311f/#220000/ig' "$file"
+            perl -pi -e 's/#034525/#660000/ig' "$file"
+            perl -pi -e 's/#0f6d31/#bb0000/ig' "$file"
+            perl -pi -e 's/#00c647/#ff3030/ig' "$file"
+
           done
 
       - name: Publish
