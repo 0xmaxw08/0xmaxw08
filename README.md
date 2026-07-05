@@ -10,20 +10,11 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=0xmaxw08&show_icons=true&theme=github_dark&hide_border=true&border_radius=0&include_all_commits=true"
-  /><img
-    width="49%"
-    src="https://streak-stats.demolab.com?user=0xmaxw08&theme=github-dark&hide_border=true&border_radius=0"
-  />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xmaxw08&show_icons=true&theme=github_dark&hide_border=true&border_radius=0&include_all_commits=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xmaxw08&theme=github-dark&hide_border=true&border_radius=0" />
 </p>
 
 <p align="center">
-  <img
-    width="42%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xmaxw08&layout=compact&theme=github_dark&hide_border=true&border_radius=0"
-  />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xmaxw08&layout=compact&theme=github_dark&hide_border=true&border_radius=0" />
 </p>
 
 ## 🏆 GitHub Trophies
