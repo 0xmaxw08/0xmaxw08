@@ -10,12 +10,11 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=0xmaxw08&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
   <img width="49%" src="https://streak-stats.demolab.com?user=0xmaxw08&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=0xmaxw08&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=0xmaxw08&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </p>
 
 ## 🏆 GitHub Trophies
@@ -25,5 +24,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=0xmaxw08&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+# 🐍 Contribution Snake
 
+![Snake animation](https://raw.githubusercontent.com/0xmaxw08/0xmaxw08/output/github-contribution-grid-snake-dark.svg)
+
+---
 ![](https://komarev.com/ghpvc/?username=0xmaxw08)
