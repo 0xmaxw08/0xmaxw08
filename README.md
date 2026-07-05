@@ -10,13 +10,18 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xmaxw08&show_icons=true&theme=github_dark&hide_border=true&border_radius=0&include_all_commits=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xmaxw08&theme=github-dark&hide_border=true&border_radius=0" />
+  <img width="49%" 
+    src="https://github-readme-stats.vercel.app/api?username=0xmaxw08&show_icons=true&hide_border=true&border_radius=0&include_all_commits=true&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=0d1117" 
+  /><img width="49%" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=0xmaxw08&hide_border=true&border_radius=0&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" 
+  />
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xmaxw08&layout=compact&theme=github_dark&hide_border=true&border_radius=0" />
+  <img width="42%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xmaxw08&layout=compact&hide_border=true&border_radius=0&title_color=ff0000&text_color=ffffff&bg_color=0d1117" 
+  />
 </p>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=0xmaxw08&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
