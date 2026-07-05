@@ -26,7 +26,7 @@
 ---
 # 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/0xmaxw08/0xmaxw08/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://github.com/eagrundy/0xmaxw08/blob/output/github-contribution-grid-snake.svg)
 
 ---
 ![](https://komarev.com/ghpvc/?username=0xmaxw08)
