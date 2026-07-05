@@ -20,5 +20,4 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=0xmaxw08&icon=0&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://komarev.com/ghpvc/?username=0xmaxw08)
