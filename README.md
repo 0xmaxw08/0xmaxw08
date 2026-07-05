@@ -19,11 +19,6 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0xmaxw08&layout=compact&hide_border=true&border_radius=0&title_color=ff0000&text_color=ffffff&bg_color=0d1117&langs_count=8" />
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=0xmaxw08&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=0xmaxw08&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # 🐍 Contribution Snake
 
