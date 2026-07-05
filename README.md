@@ -18,9 +18,9 @@
 </p>
 
 <p align="center">
-  <img width="42%" 
-    src="[https://github-readme-stats.vercel.app/api/top-langs/?username=0xmaxw08&layout=compact&hide_border=true&border_radius=0&title_color=ff0000&text_color=ffffff&bg_color=0d1117](https://github-readme-stats.shion.dev/api/top-langs/?username=0xmaxw08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)" 
-  />
+
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0xmaxw08&layout=compact&hide_border=true&border_radius=0&title_color=ff0000&text_color=ffffff&bg_color=0d1117&langs_count=8)](https://github.com/Pranesh-2005/github-readme-stats)
+
 </p>
 
 ## 🏆 GitHub Trophies
