@@ -1,5 +1,3 @@
-![Header](.github/github-header-banner.png)
-
 # 💫 About Me:
 👤 I'm Manvendra, I go by "max" online.<br>🎓 I'm a college student pursuing B.Tech in CSE with Cybersecurity. <br> 🔭 Currently learning more about C and computer structure.<br>💬 Ask me about Linux, Cybersecurity, Programming<br>⚡ It’s all 0’s and 1’s
 
