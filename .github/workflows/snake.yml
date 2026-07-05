@@ -25,12 +25,18 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark&color_snake=%2300E5FF
             dist/github-snake.gif?palette=github-dark&color_snake=%2300E5FF
 
-      - name: Copy files to writable directory
+      - name: Copy files
         run: |
-          mkdir output
-          cp dist/* output/
+          mkdir -p output
+          cp -r dist/* output/
 
-      - name: Change colors
+      - name: Show colors in SVG
+        run: |
+          echo "===== COLORS USED IN SVG ====="
+          grep -oE '#[0-9A-Fa-f]{6}' output/github-snake-dark.svg | sort | uniq
+          echo "=============================="
+
+      - name: Replace colors
         run: |
           for file in output/*.svg; do
             echo "Editing $file"
