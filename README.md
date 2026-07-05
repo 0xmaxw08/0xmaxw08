@@ -47,7 +47,7 @@ I'm **Manvendra** (`max` online).
 
 
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
     
