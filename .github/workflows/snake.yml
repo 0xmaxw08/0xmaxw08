@@ -30,15 +30,18 @@ jobs:
           mkdir -p output
           cp -r dist/* output/
 
-      - name: Convert green theme to red
+      - name: Apply custom theme
         run: |
           for file in output/*.svg; do
             echo "Editing $file"
 
-            # Background (optional)
+            # Background
             perl -pi -e 's/#161b22/#0d1117/ig' "$file"
 
-            # Contribution squares
+            # Restore faint empty cells
+            perl -pi -e 's/#1b1f23/#161b22/ig' "$file"
+
+            # Red contribution palette
             perl -pi -e 's/#01311f/#220000/ig' "$file"
             perl -pi -e 's/#034525/#660000/ig' "$file"
             perl -pi -e 's/#0f6d31/#bb0000/ig' "$file"
