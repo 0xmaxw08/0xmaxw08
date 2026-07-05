@@ -21,24 +21,23 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=%23339FF14
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=%2300E5FF
-            dist/github-snake.gif?palette=github-dark&color_snake=%2300E5FF
+            dist/github-snake.svg?color_snake=%2339FF14
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%2339FF14
+            dist/github-snake.gif?palette=github-dark&color_snake=%2339FF14
 
       - name: Make contribution colors red
         run: |
           for file in dist/*.svg; do
-            sed -i 's/#161b22/#0d1117/g' "$file"
+            sed \
+              -e 's/#0e4429/#1a0000/g' \
+              -e 's/#006d32/#550000/g' \
+              -e 's/#26a641/#aa0000/g' \
+              -e 's/#39d353/#ff0000/g' \
+              -e 's/#216e39/#aa0000/g' \
+              -e 's/#30a14e/#ff0000/g' \
+              "$file" > "$file.tmp"
 
-            # GitHub dark contribution colors -> Red palette
-            sed -i 's/#0e4429/#1a0000/g' "$file"
-            sed -i 's/#006d32/#550000/g' "$file"
-            sed -i 's/#26a641/#aa0000/g' "$file"
-            sed -i 's/#39d353/#ff0000/g' "$file"
-
-            # Older palette variants
-            sed -i 's/#216e39/#aa0000/g' "$file"
-            sed -i 's/#30a14e/#ff0000/g' "$file"
+            mv "$file.tmp" "$file"
           done
 
       - name: Publish
