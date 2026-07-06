@@ -49,10 +49,10 @@ I'm **Manvendra** (`max` online).
 
 ## Contribution Graph
 
-<div align="center">
-    
-  ![snake gif](https://github.com/0xmaxw08/0xmaxw08/blob/output/github-snake.svg)
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0xmaxw08/0xmaxw08/output/github-snake.svg#gh-light-mode-only" alt="GitHub Snake" />
+  <img src="https://raw.githubusercontent.com/0xmaxw08/0xmaxw08/output/github-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake" />
+</p>
 
 ---
 
