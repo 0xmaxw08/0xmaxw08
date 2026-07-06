@@ -27,18 +27,6 @@ I'm **Manvendra** (`max` online).
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xmaxw08)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@0xmaxw08)
 
-
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/0xmaxw08/0xmaxw08/output/github-snake.svg#gh-light-mode-only" alt="GitHub Snake" />
-  <img src="https://raw.githubusercontent.com/0xmaxw08/0xmaxw08/output/github-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake" />
-</p>
-
----
-
-![](https://komarev.com/ghpvc/?username=0xmaxw08)
 ## GitHub Stats
 
 <p align="center">
@@ -63,3 +51,14 @@ I'm **Manvendra** (`max` online).
       alt="Top Languages" />
   </picture>
 </p>
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0xmaxw08/0xmaxw08/output/github-snake.svg#gh-light-mode-only" alt="GitHub Snake" />
+  <img src="https://raw.githubusercontent.com/0xmaxw08/0xmaxw08/output/github-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake" />
+</p>
+
+---
+
+![](https://komarev.com/ghpvc/?username=0xmaxw08)
