@@ -51,7 +51,7 @@ I'm **Manvendra** (`max` online).
 
 <div align="center">
     
-  ![snake gif](https://github.com/0xmaxw08/0xmaxw08/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/0xmaxw08/0xmaxw08/blob/output/github-snake.svg)
 </div>
 
 ---
