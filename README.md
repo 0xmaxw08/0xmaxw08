@@ -9,15 +9,6 @@ I'm **Manvendra** (`max` online).
 
 > "It's all 0's and 1's."
 
-
-
-## Socials
-
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xmaxw08)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@0xmaxw08)
-
-
-
 ## Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -31,7 +22,10 @@ I'm **Manvendra** (`max` online).
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+## Socials
 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xmaxw08)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@0xmaxw08)
 
 ## GitHub Stats
 
@@ -44,8 +38,6 @@ I'm **Manvendra** (`max` online).
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0xmaxw08&layout=compact&hide_border=true&border_radius=0&title_color=ff0000&text_color=ffffff&bg_color=0d1117&langs_count=8" />
 </p>
-
-
 
 ## Contribution Graph
 
