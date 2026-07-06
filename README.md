@@ -27,17 +27,7 @@ I'm **Manvendra** (`max` online).
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xmaxw08)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@0xmaxw08)
 
-## GitHub Stats
 
-<p align="center">
-  <img width="49%" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=0xmaxw08&hide_border=true&border_radius=0&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" 
-  />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0xmaxw08&layout=compact&hide_border=true&border_radius=0&title_color=ff0000&text_color=ffffff&bg_color=0d1117&langs_count=8" />
-</p>
 
 ## Contribution Graph
 
@@ -49,3 +39,27 @@ I'm **Manvendra** (`max` online).
 ---
 
 ![](https://komarev.com/ghpvc/?username=0xmaxw08)
+## GitHub Stats
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=0xmaxw08&hide_border=true&border_radius=0&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
+    <img
+      width="49%"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=0xmaxw08&hide_border=true&theme=default"
+      alt="GitHub Streak Stats" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0xmaxw08&layout=compact&hide_border=true&border_radius=0&title_color=FF0000&text_color=FFFFFF&bg_color=0D1117&langs_count=8" />
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0xmaxw08&layout=compact&hide_border=true&theme=default&langs_count=8"
+      alt="Top Languages" />
+  </picture>
+</p>
