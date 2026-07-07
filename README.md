@@ -41,24 +41,3 @@ I'm **Manvendra** (`max` online).
       alt="GitHub Streak Stats" />
   </picture>
 </p>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0xmaxw08&layout=compact&hide_border=true&border_radius=0&title_color=FF0000&text_color=FFFFFF&bg_color=0D1117&langs_count=8" />
-    <img
-      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0xmaxw08&layout=compact&hide_border=true&theme=default&langs_count=8"
-      alt="Top Languages" />
-  </picture>
-</p>
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/0xmaxw08/0xmaxw08/output/github-snake.svg#gh-light-mode-only" alt="GitHub Snake" />
-  <img src="https://raw.githubusercontent.com/0xmaxw08/0xmaxw08/output/github-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake" />
-</p>
-
----
-
