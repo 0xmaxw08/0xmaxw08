@@ -62,4 +62,3 @@ I'm **Manvendra** (`max` online).
 
 ---
 
-![](https://komarev.com/ghpvc/?username=0xmaxw08)
