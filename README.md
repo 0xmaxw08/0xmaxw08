@@ -36,7 +36,7 @@ I'm **Manvendra** (`max` online).
       media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-streak-stats.herokuapp.com/?user=0xmaxw08&hide_border=true&border_radius=0&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
     <img
-      width="49%"
+      width="75%"
       src="https://github-readme-streak-stats.herokuapp.com/?user=0xmaxw08&hide_border=true&theme=default"
       alt="GitHub Streak Stats" />
   </picture>
