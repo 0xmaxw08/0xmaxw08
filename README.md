@@ -3,9 +3,10 @@
 I'm **Manvendra** (`max` online).
 
 - B.Tech CSE student specializing in Cybersecurity
-- Currently learning C and Computer Organization & Architecture
-- Interested in Linux, Cybersecurity, and Systems Programming
-- Always exploring how things work beneath the surface
+- Exploring Systems Programming, Linux, and Computer Architecture
+- Currently learning C while building a strong foundation in low-level computing
+- Expanding into AI and Machine Learning
+- Passionate about understanding how software works—from hardware to intelligence
 
 > "It's all 0's and 1's."
 
