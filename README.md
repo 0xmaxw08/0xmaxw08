@@ -27,3 +27,17 @@ I'm **Manvendra** (`max` online).
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xmaxw08)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@0xmaxw08)
+
+## GitHub Stats
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=0xmaxw08&hide_border=true&border_radius=0&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
+    <img
+      width="75%"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=0xmaxw08&hide_border=true&theme=default"
+      alt="GitHub Streak Stats" />
+  </picture>
+</p>
