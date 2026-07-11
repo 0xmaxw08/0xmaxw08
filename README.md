@@ -10,7 +10,7 @@ I'm **Manvendra** (`max` online).
 
 > "It's all 0's and 1's."
 
-## Tech Stack
+## Kit
 
 <div align="center">
 
@@ -27,7 +27,7 @@ I'm **Manvendra** (`max` online).
 
 </div>
 
-## Socials
+## Connect
 
 <div align="center">
 
@@ -44,7 +44,7 @@ I'm **Manvendra** (`max` online).
       media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-streak-stats.herokuapp.com/?user=0xmaxw08&hide_border=true&border_radius=0&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
     <img
-      width="75%"
+      width="51%"
       src="https://github-readme-streak-stats.herokuapp.com/?user=0xmaxw08&hide_border=true&theme=default"
       alt="GitHub Streak Stats" />
   </picture>
