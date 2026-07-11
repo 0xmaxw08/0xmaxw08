@@ -8,8 +8,6 @@ I'm **Manvendra** (`max` online).
 - Expanding into AI and Machine Learning
 - Passionate about understanding how software works from hardware to intelligence
 
-> "It's all 0's and 1's."
-
 ## Kit
 
 <div align="center">
