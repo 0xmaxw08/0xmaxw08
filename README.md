@@ -36,14 +36,15 @@ I'm **Manvendra** (`max` online).
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://vercel.app" width="48%" alt="Manvendra's GitHub Stats" />
-  <img src="https://vercel.app" width="48%" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xmaxw08&hide_border=true&theme=default" width="51%" alt="GitHub Streak Stats" />
-</div>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="[https://herokuapp.com](https://github-readme-streak-stats.herokuapp.com/?user=0xmaxw08&hide_border=true&border_radius=0&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA)" />
+    <img
+      width="51%"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=0xmaxw08&hide_border=true&theme=default"
+      alt="GitHub Streak Stats" />
+  </picture>
+</p>
 
