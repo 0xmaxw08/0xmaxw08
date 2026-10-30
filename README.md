@@ -37,7 +37,7 @@ I'm **Manvendra** (`max` online).
 ## GitHub Stats
 
 <p align="center">
-  <!-- Dynamic Core Stats Card (Matches your red/dark streak theme) -->
+  <!-- Dynamic Core Stats Card -->
   <img width="48%" src="https://vercel.app" alt="Manvendra's GitHub Stats" />
   
   <!-- Dynamic Top Languages Card -->
@@ -48,11 +48,10 @@ I'm **Manvendra** (`max` online).
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=0xmaxw08&hide_border=true&border_radius=0&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
+      srcset="https://herokuapp.com" />
     <img
-      width="97%"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=0xmaxw08&hide_border=true&theme=default"
+      width="51%"
+      src="https://herokuapp.com"
       alt="GitHub Streak Stats" />
   </picture>
 </p>
-
