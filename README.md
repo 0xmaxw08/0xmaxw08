@@ -44,6 +44,6 @@ I'm **Manvendra** (`max` online).
 <br/>
 
 <div align="center">
-  <img src="https://herokuapp.com" width="51%" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xmaxw08&hide_border=true&theme=default" width="51%" alt="GitHub Streak Stats" />
 </div>
 
