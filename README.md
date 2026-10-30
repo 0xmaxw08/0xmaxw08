@@ -36,22 +36,14 @@ I'm **Manvendra** (`max` online).
 
 ## GitHub Stats
 
-<p align="center">
-  <!-- Dynamic Core Stats Card -->
-  <img width="48%" src="https://vercel.app" alt="Manvendra's GitHub Stats" />
-  
-  <!-- Dynamic Top Languages Card -->
-  <img width="48%" src="https://vercel.app" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://vercel.app" width="48%" alt="Manvendra's GitHub Stats" />
+  <img src="https://vercel.app" width="48%" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://herokuapp.com" />
-    <img
-      width="51%"
-      src="https://herokuapp.com"
-      alt="GitHub Streak Stats" />
-  </picture>
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://herokuapp.com" width="51%" alt="GitHub Streak Stats" />
+</div>
+
